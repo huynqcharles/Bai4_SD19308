@@ -12,6 +12,7 @@ namespace Bai4
     {
         static void Main(string[] args)
         {
+            // Update code
             ArrayList arrayList = new ArrayList();
 
             for (int i = 1; i <= 3; i++)
